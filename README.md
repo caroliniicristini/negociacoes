@@ -1,5 +1,5 @@
 
-<img width="200" alt="caravanTemplate" src="https://user-images.githubusercontent.com/67964919/224388354-7b79d208-7e45-4882-9154-214744b8920b.png">
+<img width="50" alt="caravanTemplate" src="https://user-images.githubusercontent.com/67964919/224388354-7b79d208-7e45-4882-9154-214744b8920b.png"> Negociações
 
 # 📖 Sobre 
   Trata-se do cadastro de negociações de bolsa de valores, que foi desenvolvido durante o curso de Typescript da plataforma Alura.
