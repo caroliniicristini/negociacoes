@@ -1,0 +1,13 @@
+{
+    //compilador ts -> js versão ES6
+
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "target": "ES6",
+        "noEmitOnError": true, //não vai gerar arquivos js se o ts n estiver passando na compilação
+        "noImplicitAny": true,
+        "removeComments": true //não compila os comentários ts pra js
+    },
+    "include": ["app/**/*"]
+    
+}
