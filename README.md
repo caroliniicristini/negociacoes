@@ -10,7 +10,7 @@
 
 <ul dir="auto">
 <li>HTML5</li>
-<li>Typescript</li>
+<li>Javacript (Ts)</li>
 <li>Bootstrap 4</li>
 </ul>
 
